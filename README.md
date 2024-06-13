@@ -3,6 +3,7 @@ Apprenticeship exercise attempting to make predictions based on global temperatu
 
 ![prediction plots](assets/prediction plots.jpg)
 
+![histogram](assets/prediction plots.jpg)
 
 ## Access the full workings and output here
 [workbook](assets/dspp-exercise-global-warming-analysis.ipynb)
